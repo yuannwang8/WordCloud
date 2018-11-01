@@ -1,2 +1,2 @@
-# WordCloudV1
-My first attempt at building word clouds using R
+# WordCloud
+Some example scripts for word clouds
